@@ -1,0 +1,63 @@
+<html>
+            <head>
+                          <title>
+                          Homework
+                          </title>
+            </head>
+
+             <body bgcolor="lightgrey" text="maroon" background="Jaipur.jpeg">
+
+               Hello &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;world<br/>
+               Hello world<br/>
+               
+Hello <b>world </b><br/>
+Hello <strong>world</strong> <br/>
+
+Hello <i>world</i> <br/>
+Hello <em>world</em> <br/>
+
+Hello <u>world</u> <br/>
+Hello <ins>world</ins> <br/>
+
+Hello <b><u><i>world</i></u></b> <br/>
+
+Hello <strike>world</strike> <br/>
+Hello <s>world</s> <br/>
+Hello <del>world</del> <br/>
+
+Hello <sub>world</sub> <br/>
+Hello <sup>world</sup> <br/>
+
+               
+H<sup>2</sup>O<br/>
+
+(a+b)<sup>2</sup><br/>
+
+Hello <q>world</q><br/>
+
+Hello <mark>world</mark><br/>
+
+Hello <small>world</small><br/>
+
+Hello <big>world</big><br/>
+
+<h1>Hello world</h1>
+<h2>Hello world</h2>
+<h3>Hello world</h3>
+<h4 align="center">Hello world</h4>
+<h5 align="right">Hello world</h5>
+<h6>Hello world</h6>
+<h1>Hello world</h1>
+
+Hello <font size="5">world</font><br/>
+Hello <font size="5" color="blue" face="Jokerman" >world</font><br/>
+
+Hello <font size="5">world</font><br/>
+Hello <font size="5">world</font><br/>
+Hello <font size="5">world</font><br/>
+Hello world<br/>
+Hello world<br/>
+
+            
+             </body>
+</html>
